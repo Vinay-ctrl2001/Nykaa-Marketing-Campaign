@@ -42,6 +42,8 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 - October 2024 had the highest number of campaigns launched at 5,068, followed by July 5,005, December 4,964, August 4,943, November 4,825, and September 4,671.
 
 
+# Data Visualization (Power BI)
+
 # Executive Summary
 
 ![image alt](https://github.com/Vinay-ctrl2001/Nykaa-Marketing-Campaign/blob/main/image/Executive%20Summary.png?raw=true)
