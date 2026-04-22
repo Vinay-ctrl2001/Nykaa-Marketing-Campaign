@@ -9,6 +9,28 @@ identify which marketing strategies yield the highest profitability across its d
 
 This project involves a comprehensive analysis of 55,000+ marketing campaign records for Nykaa. The goal was to transform raw campaign data into actionable business intelligence, focusing on budget optimization, customer acquisition efficiency, and platform-specific performance.
 
+# 🔎 Data Cleaning & Exploratory Data Analysis (MySQL)
+
+# Data Cleaning 
+
+- Update data types and standardized date
+
+- Corrected inconsistent values
+
+- Checked for duplicates
+
+# Exploratory Data Analysis  Key Insights
+
+- total revenue 28.66 Billion, 260.45 Million total clicks, recorded 57.38 Million conversions
+
+- Social Media 2.75, Paid Ads 2.72, and SEO 2.71, Influencer 2.70 and Email 2.68
+
+- 
+
+
+
+
+
 # Executive Summary
 
 ![image alt](https://github.com/Vinay-ctrl2001/Nykaa-Marketing-Campaign/blob/main/image/Executive%20Summary.png?raw=true)
