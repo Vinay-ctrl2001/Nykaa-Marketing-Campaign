@@ -14,3 +14,10 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 ![image alt](https://github.com/Vinay-ctrl2001/Nykaa-Marketing-Campaign/blob/main/image/Executive%20Summary.png?raw=true)
 
 # 📌KPIs
+Total Revenue : 28.66 BN
+
+Average ROI : 2.71
+
+Total Conversions : 57 M
+
+Total spend : 20.96 M
