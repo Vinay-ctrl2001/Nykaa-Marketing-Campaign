@@ -19,7 +19,7 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 
 - Checked for duplicates
 
-# Exploratory Data Analysis  Key Insights
+# Exploratory Data Analysis  Key Insights (MySQL)
 
 - total revenue 28.66 Billion, 260.45 Million total clicks, recorded 57.38 Million conversions generated in all campaigns
 
