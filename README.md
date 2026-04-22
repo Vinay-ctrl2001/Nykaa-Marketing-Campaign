@@ -63,3 +63,14 @@ Total spend : 20.96 M
  while Tier 2 city customers and youth account for 19.81% and 19.78%, respectively.
 
 - Influencer, social media, and paid ads marketing types are leading in attracting revenue of almost 5.8 billion each, followed by SEO and emails with 5.7 billion.
+
+- Annual revenue declined from $15.3 billion in 2024 to $13.3 billion in 2025. On a month-to-month basis, performance remained stable, with the exception of a notable dip in June.
+
+  
+
+# Marketing Engagement
+
+- Hindi leads in impressions at 25.18%, closely followed by English at 24.99%. Bengali and Tamil round out the top four with nearly identical shares of 24.92% and 24.91%, respectively.
+
+- 
+  
