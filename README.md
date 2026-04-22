@@ -37,7 +37,7 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 
 - Working Women lead in revenue with 581.19M, followed by College Students (579.95M), Premium Shoppers 570.99M, Tier 2 City Customers 569.18M, and Youth 564.32M.
 
-- NY-CMP-13007 is the top performer with the highest revenue of 4.58M and an engagement score of 30.17, followed by NY-CMP-44157 4.41M and NY-CMP-38379 4.33M.
+- NY-CMP-13007 is the top performing campign with the highest revenue of 4.58M and an engagement score of 30.17, followed by NY-CMP-44157 4.41M and NY-CMP-38379 4.33M.
 
 - October 2024 had the highest number of campaigns launched at 5,068, followed by July 5,005, December 4,964, August 4,943, November 4,825, and September 4,671.
 
