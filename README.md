@@ -11,7 +11,7 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 
 # 🔎 Data Cleaning & Exploratory Data Analysis (MySQL)
 
-# Data Cleaning 
+# Data Cleaning (MySQL)
 
 - Update data types and standardized date
 
@@ -49,13 +49,14 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 ![image alt](https://github.com/Vinay-ctrl2001/Nykaa-Marketing-Campaign/blob/main/image/Executive%20Summary.png?raw=true)
 
 # 📌KPIs
-Total Revenue : 28.66 BN
 
-Average ROI : 2.71
+- Total Revenue : 28.66 BN
 
-Total Conversions : 57 M
+- Average ROI : 2.71
 
-Total spend : 20.96 M
+- Total Conversions : 57 M
+
+- Total spend : 20.96 M
 
 # Insights
 
@@ -67,10 +68,37 @@ Total spend : 20.96 M
 - Annual revenue declined from $15.3 billion in 2024 to $13.3 billion in 2025. On a month-to-month basis, performance remained stable, with the exception of a notable dip in June.
 
   
-
 # Marketing Engagement
+
+# 📌KPIs
+
+- Total Clicks : 260 Million
+
+- Total Impressions : 3 Billion
+
+- Average Engagement : Score 13.78
+
+# Insights
 
 - Hindi leads in impressions at 25.18%, closely followed by English at 24.99%. Bengali and Tamil round out the top four with nearly identical shares of 24.92% and 24.91%, respectively.
 
-- 
+- YouTube led our marketing spend at $1.25M, followed closely by Google ($1.20M). WhatsApp and Instagram saw equal investment at $1.18M each, while Facebook ($1.15M) and Email ($1.10M) rounded out the budget.
+
+- Achieved 3.06B impressions and 260M clicks across all channels. Most importantly, the campaign delivered 57M conversions
+
+
+# Financial Performance
   
+# 📌KPIs
+
+- Average ROI : 2.71
+
+- Total Revenue : 28.66 BN
+
+- Total Spend : 20.96 Million
+
+# Insights
+
+- Social media emerged as the top-performing channel with a 2.8% ROI, while Paid Ads, SEO, Influencer, and Email maintained a steady return of 2.7% each.
+
+-  Annual ROI declined from $15.3 billion in 2024 to $13.3 billion in 2025. On a month-to-month basis, performance remained stable, with the exception of a notable dip in June.
