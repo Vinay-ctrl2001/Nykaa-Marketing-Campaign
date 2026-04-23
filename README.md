@@ -46,7 +46,7 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 
 # Executive Summary
 
-![image alt](https://github.com/Vinay-ctrl2001/Nykaa-Marketing-Campaign/blob/main/image/Executive%20Summary.png?raw=true)
+
 
 # 📌KPIs
 
