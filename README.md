@@ -26,8 +26,8 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 - Social Media generated  the highest average ROI with 2.75, Paid Ads are secound 2.72, and SEO third 2.71,
    Influencer and Emails are gererated low ROI with  Influencer 2.70 and Email 2.68
 
-- While targeted customers have pretty similar engagement scores,
- College Students, Premium Shoppers, and Working Women are the top three, with scores of 13.85, 13.83, and 13.81, respectively.
+- While targeted customers have pretty similar engagement scores,College Students, Premium Shoppers,
+  and Working Women are the top three, with scores of 13.85, 13.83, and 13.81, respectively.
 
 - Tamil and Hindi are the frequently used languages, with conversion rates of 22.12% and 22.10%, followed by Bengali at 22.03% and English at 21.88%
 
@@ -103,10 +103,15 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 
 - Annual ROI declined from 2.72 % in 2024 to 2.71 % in 2025.in quarter 2 it dip 2.69 % On a month-to-month basis, performance remained stable, with the exception of a notable dip in April 2.64 & June 2.60.
 
-- Revenue Breakdown: Working Women lead ($5.81B), followed immediately by College Students ($5.80B). Premium Shoppers ($5.71B) and Tier-2 Customers ($5.69B) sit in the mid-tier,
+- Revenue Breakdown: Working Women lead ($5.81B), followed immediately by College Students ($5.80B). Premium Shoppers ($5.71B) and Tier-2 city Customers ($5.69B) sit in the mid-tier,
   while Youth customers contribute the remaining $5.64B.
 
 
 # 📖Recommendations
 
-- 
+- Social media is top-performing channel with a 2.8% ROI while others have very close ROI, organization should concenyrate on Paid Ads on Youtube,
+  Influencers promotions for better reach to young customers
+
+- Working women & College Students leads in revenue but Tier-2 city Customers & youth is growing market by using social media organization can acquire a growing and large customer base
+
+- Hindi & English language have most  impressions but organization can diversify to more regional languages to reach tier 2 and teir 3 and rural customers
