@@ -61,7 +61,7 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 # 🔎Insights
 
 - Working women represent the largest share of conversations at 20.28%, followed closely by college students at 20.19%.Premium shoppers constitute 19.95%,
- while Tier 2 city customers and youth account for 19.81% and 19.78%, respectively.
+  while Tier 2 city customers and youth account for 19.81% and 19.78%, respectively.
 
 - Influencer, social media, and paid ads marketing types are leading in attracting revenue of almost 5.8 billion each, followed by SEO and emails with 5.7 billion.
 
