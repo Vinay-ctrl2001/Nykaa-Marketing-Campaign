@@ -58,7 +58,7 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 
 - Total spend : 20.96 M
 
-# Insights
+# 🔎Insights
 
 - Working women represent the largest share of conversations at 20.28%, followed closely by college students at 20.19%.Premium shoppers constitute 19.95%,
  while Tier 2 city customers and youth account for 19.81% and 19.78%, respectively.
@@ -78,7 +78,7 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 
 - Average Engagement : Score 13.78
 
-# Insights
+# 🔎Insights
 
 - Hindi leads in impressions at 25.18%, closely followed by English at 24.99%. Bengali and Tamil round out the top four with nearly identical shares of 24.92% and 24.91%, respectively.
 
@@ -97,8 +97,16 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 
 - Total Spend : 20.96 Million
 
-# Insights
+# 🔎Insights
 
 - Social media emerged as the top-performing channel with a 2.8% ROI, while Paid Ads, SEO, Influencer, and Email maintained a steady return of 2.7% each.
 
--  Annual ROI declined from $15.3 billion in 2024 to $13.3 billion in 2025. On a month-to-month basis, performance remained stable, with the exception of a notable dip in June.
+- Annual ROI declined from 2.72 % in 2024 to 2.71 % in 2025.in quarter 2 it dip 2.69 % On a month-to-month basis, performance remained stable, with the exception of a notable dip in April 2.64 & June 2.60.
+
+- Revenue Breakdown: Working Women lead ($5.81B), followed immediately by College Students ($5.80B). Premium Shoppers ($5.71B) and Tier-2 Customers ($5.69B) sit in the mid-tier,
+- while Youth customers contribute the remaining $5.64B.
+
+
+# 📖Recommendations
+
+- 
