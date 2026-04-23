@@ -46,7 +46,7 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 
 # Executive Summary
 
-
+![image alt](https://github.com/Vinay-ctrl2001/Nykaa-Marketing-Campaign/blob/main/image/Executive%20Summary.png?raw=true)
 
 # 📌KPIs
 
@@ -70,6 +70,9 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
   
 # Marketing Engagement
 
+![image alt](https://github.com/Vinay-ctrl2001/Nykaa-Marketing-Campaign/blob/main/image/Marketing%20Engagement.png?raw=true)
+
+
 # 📌KPIs
 
 - Total Clicks : 260 Million
@@ -88,6 +91,8 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 
 
 # Financial Performance
+
+![image alt](https://github.com/Vinay-ctrl2001/Nykaa-Marketing-Campaign/blob/main/image/Financial%20Performance.png?raw=true)
   
 # 📌KPIs
 
