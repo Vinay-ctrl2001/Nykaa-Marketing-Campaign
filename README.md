@@ -104,7 +104,7 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
 - Annual ROI declined from 2.72 % in 2024 to 2.71 % in 2025.in quarter 2 it dip 2.69 % On a month-to-month basis, performance remained stable, with the exception of a notable dip in April 2.64 & June 2.60.
 
 - Revenue Breakdown: Working Women lead ($5.81B), followed immediately by College Students ($5.80B). Premium Shoppers ($5.71B) and Tier-2 Customers ($5.69B) sit in the mid-tier,
-- while Youth customers contribute the remaining $5.64B.
+  while Youth customers contribute the remaining $5.64B.
 
 
 # 📖Recommendations
