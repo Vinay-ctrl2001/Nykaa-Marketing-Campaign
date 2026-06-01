@@ -107,7 +107,7 @@ This project involves a comprehensive analysis of 55,000+ marketing campaign rec
   while Youth customers contribute the remaining $5.64B.
 
 
-# 📖Recommendations
+# 📖Summary
 
 - Social media is top-performing channel with a 2.8% ROI while others have very close ROI, organization should concenyrate on Paid Ads on Youtube,
   Influencers promotions for better reach to young customers
